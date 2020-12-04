@@ -3,9 +3,4 @@ window.onload = function() {
 	let countries = ["USA", "France", "Italy", "Brazil", "Colombia", "Belize", "Venezuela"];
 
   // your code here
-  countries.map(country => {
-		var elem = document.createElement("option");
-		elem.innerHTML = country;
-		document.querySelector("#mySelect").appendChild(elem);
-	});
 };
