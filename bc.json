@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://cae8751d-2820-4879-9b4c-3ebbd06255ce.ws-us03.gitpod.io",
+    "address": "https://eb499ffa-80a3-4700-ba9e-ceec4c40c56f.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -143,7 +143,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
@@ -176,7 +176,7 @@
         {
             "slug": "13-Add-Options-to-the-Select",
             "title": "13-Add-Options-to-the-Select",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Add-Options-to-the-Select",
             "translations": [
                 "es",
