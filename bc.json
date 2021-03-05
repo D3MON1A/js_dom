@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://eb499ffa-80a3-4700-ba9e-ceec4c40c56f.ws-us03.gitpod.io",
+    "address": "https://sapphire-marmoset-djz09idw.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -165,7 +165,7 @@
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "es",
