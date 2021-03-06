@@ -1,4 +1,3 @@
-
 function deleteTask() {
 	let elements = document.querySelectorAll(".fa-trash");
 	console.log(elements);
